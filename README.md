@@ -93,3 +93,66 @@ daily-habit-streak-tracker/
 
 
 <img width="2940" height="1767" alt="image" src="https://github.com/user-attachments/assets/9b072f86-ec00-4bae-8861-4590856c19c7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="2940" height="1768" alt="image" src="https://github.com/user-attachments/assets/93f8107a-0ed9-4b00-b948-b73f56f26251" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="2940" height="1775" alt="image" src="https://github.com/user-attachments/assets/a8bb84e6-2dbf-4663-9145-8e860978ec31" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="2940" height="1777" alt="image" src="https://github.com/user-attachments/assets/d34c945f-94b7-40c8-8237-b2e177718849" />
+
+
+
