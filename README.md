@@ -78,3 +78,18 @@ daily-habit-streak-tracker/
         └── storage.js
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="2940" height="1767" alt="image" src="https://github.com/user-attachments/assets/9b072f86-ec00-4bae-8861-4590856c19c7" />
